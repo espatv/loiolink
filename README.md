@@ -1,4 +1,4 @@
-# loiolink - Addon para Kodi
+# loiolink 🔗 - Addon para Kodi
 
 ![Kodi](https://img.shields.io/badge/Kodi-19%2B-blue?logo=kodi) ![Status](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
